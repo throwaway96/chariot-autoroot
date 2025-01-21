@@ -7,8 +7,9 @@ It uses a feature of webOS (and NetCast) intended to run the
 [Chariot](https://www.keysight.com/us/en/products/network-test/performance-monitoring/ixchariot.html)
 endpoint test.
 
-This may only work on certain models. If you have a webOS 1 TV, please let me
-know if the "Chariot Endpoint" option is available.
+While I've tested this on both H13- and M14-based TVs, there are reports that
+the "Chariot Endpoint" option is disabled on some TVs. If "Chariot Endpoint"
+is unavailable on your webOS 1 TV, please let me know.
 
 Since LG has been aware of this for a long time and hasn't released any
 new firmware for webOS 1 since early 2022, this is never going to be patched.
